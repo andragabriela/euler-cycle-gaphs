@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Andra Ursa\Desktop\grafuri\Lab5\ciclu eulerian\ciclu eulerian\Source.cpp(57,36): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Andra Ursa\Desktop\grafuri\Lab5\ciclu eulerian\ciclu eulerian\Source.cpp(58,36): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  ciclu eulerian.vcxproj -> C:\Users\Andra Ursa\Desktop\grafuri\Lab5\ciclu eulerian\x64\Debug\ciclu eulerian.exe
